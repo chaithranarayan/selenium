@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-04T09:58:15 GMT+05:30" name="Default suite" finished-at="2022-07-04T09:59:02 GMT+05:30" duration-ms="47673">
+    <groups>
+    </groups>
+    <test started-at="2022-07-04T09:58:15 GMT+05:30" name="Default test" finished-at="2022-07-04T09:59:02 GMT+05:30" duration-ms="47673">
+      <class name="com.hyr.test.AboutUs">
+        <test-method signature="Home()[pri:1, instance:com.hyr.test.AboutUs@15bb5034]" started-at="2022-07-04T09:58:15 GMT+05:30" name="Home" finished-at="2022-07-04T09:58:21 GMT+05:30" duration-ms="5724" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Home -->
+        <test-method signature="AdminLogin()[pri:2, instance:com.hyr.test.AboutUs@15bb5034]" started-at="2022-07-04T09:58:21 GMT+05:30" name="AdminLogin" finished-at="2022-07-04T09:58:25 GMT+05:30" duration-ms="4774" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AdminLogin -->
+        <test-method signature="adminBook()[pri:3, instance:com.hyr.test.AboutUs@15bb5034]" started-at="2022-07-04T09:58:25 GMT+05:30" name="adminBook" finished-at="2022-07-04T09:58:29 GMT+05:30" duration-ms="3690" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- adminBook -->
+        <test-method signature="StudentRegistration()[pri:4, instance:com.hyr.test.AboutUs@15bb5034]" started-at="2022-07-04T09:58:29 GMT+05:30" name="StudentRegistration" finished-at="2022-07-04T09:58:34 GMT+05:30" duration-ms="5266" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StudentRegistration -->
+        <test-method signature="StudentLogin()[pri:5, instance:com.hyr.test.AboutUs@15bb5034]" started-at="2022-07-04T09:58:34 GMT+05:30" name="StudentLogin" finished-at="2022-07-04T09:58:41 GMT+05:30" duration-ms="6991" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StudentLogin -->
+        <test-method signature="books()[pri:6, instance:com.hyr.test.AboutUs@15bb5034]" started-at="2022-07-04T09:58:41 GMT+05:30" name="books" finished-at="2022-07-04T09:58:50 GMT+05:30" duration-ms="8932" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- books -->
+        <test-method signature="cart()[pri:7, instance:com.hyr.test.AboutUs@15bb5034]" started-at="2022-07-04T09:58:50 GMT+05:30" name="cart" finished-at="2022-07-04T09:58:56 GMT+05:30" duration-ms="5539" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cart -->
+        <test-method signature="aboutUs()[pri:8, instance:com.hyr.test.AboutUs@15bb5034]" started-at="2022-07-04T09:58:56 GMT+05:30" name="aboutUs" finished-at="2022-07-04T09:59:02 GMT+05:30" duration-ms="6628" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aboutUs -->
+      </class> <!-- com.hyr.test.AboutUs -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
